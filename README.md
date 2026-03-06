@@ -44,10 +44,10 @@ Input BED File Format:
     Column 4: Fragment count number
   
   Example format:
-    chrY    669491    94    1
-    chrY    1169870   71    1
-    chrY    1217535   61    1
-    chrY    1411077   81    1
-    chrY    2353754   67    1
-    chrY    2781515   74    1
+    chrY    669491    94    1\n
+    chrY    1169870   71    1\n
+    chrY    1217535   61    1\n
+    chrY    1411077   81    1\n
+    chrY    2353754   67    1\n
+    chrY    2781515   74    1\n
 
